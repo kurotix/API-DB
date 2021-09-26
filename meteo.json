@@ -1,0 +1,24 @@
+{
+    "utilisateur": [
+        {
+            "id": "1",
+            "name": "Paris",
+            "temperature": "25.1"
+        },
+        {
+            "id": "2",
+            "name": "Madrid",
+            "temperature": "29.2"
+        },
+        {
+            "id": "43",
+            "name": "Londres",
+            "temperature": "17.3"
+        },
+        {
+            "id": "4",
+            "name": "Berlin",
+            "temperature": "22.0"
+        }
+    ]
+}
